@@ -1,4 +1,4 @@
-FROM rhel7.5                     
+FROM rhel7              
 
 MAINTAINER Dev and Test <testanddev@example.com>
 
