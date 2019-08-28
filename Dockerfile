@@ -1,4 +1,4 @@
-FROM rhel7              
+FROM docker.io/richxsl/rhel7              
 
 MAINTAINER Dev and Test <testanddev@example.com>
 
